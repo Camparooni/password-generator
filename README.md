@@ -12,7 +12,7 @@ To use this web application, you can click into the box to the right of "Passwor
 
 [Link to deployed application](https://camparooni.github.io/password-generator/)
 
-![password-generator](password-generator-ss.PNG)
+![password-generator](password-generator-app-ss.PNG)
 
 ### References Used 
 
